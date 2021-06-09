@@ -1,0 +1,11 @@
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\bin\Debug\ClasePractica.exe.config
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\bin\Debug\ClasePractica.exe
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\bin\Debug\ClasePractica.pdb
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.FrmEmpleado.resources
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.FrmMdi.resources
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.exe
+C:\Users\rodri\OneDrive\Documentos\Proyectos C#\ClasePractica\ClasePractica\ClasePractica\obj\Debug\ClasePractica.pdb

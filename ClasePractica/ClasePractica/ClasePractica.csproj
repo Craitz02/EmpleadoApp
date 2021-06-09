@@ -54,12 +54,21 @@
     </Compile>
     <Compile Include="enums\Cargos.cs" />
     <Compile Include="enums\Profesiones.cs" />
+    <Compile Include="FrmMdi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMdi.Designer.cs">
+      <DependentUpon>FrmMdi.cs</DependentUpon>
+    </Compile>
     <Compile Include="model\EmpleadoModel.cs" />
     <Compile Include="poco\Empleado.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmEmpleado.resx">
       <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMdi.resx">
+      <DependentUpon>FrmMdi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

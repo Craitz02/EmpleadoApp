@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClasePractica.poco;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,17 +9,17 @@ namespace ClasePractica.model
 {
     public class EmpleadoModel
     {
-        private FrmEmpleado[] empleados;
-
-        public void Add(FrmEmpleado e)
+        private Empleado[] empleados;
+        public EmpleadoModel() { }
+        public void Add(Empleado e)
         {
             if (empleados == null)
             {
-                empleados = new FrmEmpleado[1];
+                empleados = new Empleado[1];
                 empleados[0] = e;
                 return;
             }
-            FrmEmpleado[] temp = new FrmEmpleado[empleados.Length + 1];
+            Empleado[] temp = new Empleado[empleados.Length + 1];
             Array.Copy(empleados, temp, empleados.Length);
             temp[temp.Length - 1] = e;
 
@@ -27,7 +28,20 @@ namespace ClasePractica.model
 
         public int LastEmpleado()
         {
-            return empleados.Length;
+            if (empleados == null)
+            {
+                return 0;
+            }
+            else
+            {
+                return empleados.Length;
+            }
+            
+        }
+
+        public Empleado[] getAll()
+        {
+            return empleados;
         }
     }
 }
